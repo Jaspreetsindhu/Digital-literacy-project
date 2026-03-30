@@ -92,3 +92,61 @@ digital-literacy-project/
 │   ├── casestudy.md
 │   └── prevention-checklist.md
 
+Project Overview
+
+The project consisted of a collection of five tasks that I completed, some of which were designed to encourage digital literacy and promote a professional online presence by helping me to create an online portfolio through developing tasks using different digital tools. 
+
+The following five tasks were completed: 
+
+Task 1 – Digital Literacy Infographic
+• Created an infographic to increase awareness of digital literacy related to the topics of safety, digital tools, and communication.
+• Designed the infographic using an online tool.
+
+Task 2 – Create/Curate Digital Portfolio
+• Created and updated profiles on Github and LinkedIn.
+• Created a digital portfolio of projects to promote my digital presence.
+
+Task 3 – Explore Digital Platforms
+• Completed an introductory coding challenge.
+• Developed a Google Form quiz to assess digital literacy.
+
+Google Form Quiz Link (Insert URL Here)
+
+Task 4 – Business Email Etiquette
+• Created 2 professional emails.
+• Developed 1 checklist of Do’s and Don’ts for communicating via social media.
+
+Task 5 – Creating Cyber Crime Awareness
+• Developed a case study on cyber crime.
+• Created a checklist of ways that students could help to protect themselves against cyber crimes.
+
+Project Report
+• The report for the entire project will include:
+• Introduction
+• Summary of each task completed
+• Reflections as to what I learned in each task
+• Summary of the outcome of the project
+
+How to View and/or Utilize the Project
+• Visit the project repository located at [insert URL here].
+• Navigate through the task folders to find the files related to each task.
+• View the images, documents, and/or files associated with each task.
+• View the detailed report associated with the project.
+
+Example Interactions with Project
+• View the infographic → Learn the basics about digital literacy.
+• Open the Google Form → Take the digital literacy quiz.
+• Review the professional emails → Learn how to effectively communicate in a professional manner.
+• Review the cyber crime checklist → Learn ways to stay safe while using the internet.
+
+Challenges Encountered
+• Created an infographic that was both simple and easy to read.
+• Attempted to write in a professional communication tone.
+• Used and learned how to use multiple platforms for the first time.
+• Organized project files.
+
+Future Improvements
+• Add more interactive style quizzes.
+• Maintain improved quality of visual design of the infographics.
+• Expand digital portfolio to include projects completed for an actual client. 
+• Develop several video-based lessons on how to protect yourself from cybercrime.
