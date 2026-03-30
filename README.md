@@ -76,7 +76,7 @@ All work is documented in this repository.
 
 • Microsoft Word/PDF Tools
 
-How It Works
+# How It Works
 
 This project has 5 modules.
 
@@ -144,7 +144,7 @@ literacy-project/
 
 │   └── prevention-checklist.md
 
-Project Overview
+# Project Overview
 
 I completed five tasks to promote digital literacy and create a professional online presence.
 
@@ -152,9 +152,13 @@ The tasks are:
 
 Task 1 – Digital Literacy Infographic
 
+
+
 • Created an infographic on literacy, safety and communication.
 
 • Designed it using an online tool.
+
+
 
 Task 2 – Create/Curate Digital Portfolio
 
@@ -162,13 +166,17 @@ Task 2 – Create/Curate Digital Portfolio
 
 • Made a portfolio to promote my online presence.
 
+
+
 Task 3 – Explore Digital Platforms
 
 • Completed a coding challenge.
 
 • Created a Google Form quiz on literacy.
 
-Google Form Quiz Link (Insert URL
+Google Form Quiz Link (https://forms.gle/msbWHfc7FPSn5pGA8)
+
+
 
 Task 4 – Business Email Etiquette
 
@@ -176,13 +184,15 @@ Task 4 – Business Email Etiquette
 
 • Made a checklist for social media communication.
 
+
+
 Task 5 – Creating Cyber Crime Awareness
 
 • Developed a cybercrime case study.
 
 • Created a checklist to prevent cybercrime.
 
-Project Report
+# Project Report
 
 • The report includes:
 
@@ -192,9 +202,9 @@ Project Report
 
 • Project outcome summary
 
-How to View and/or Utilize the Project
+# How to View and/or Utilize the Project
 
-• Visit the project repository at [ URL here].
+• Visit the project repository at .
 
 • Look through task folders to find task files.
 
@@ -202,7 +212,7 @@ How to View and/or Utilize the Project
 
 • Read the report.
 
-Example Interactions with Project
+# Example Interactions with Project
 
 • View the infographic → Learn literacy basics.
 
@@ -212,7 +222,7 @@ Example Interactions with Project
 
 • Review the cybercrime checklist → Stay online.
 
-Challenges Encountered
+# Challenges Encountered
 
 • Made an easy-to-read infographic.
 
@@ -222,7 +232,7 @@ Challenges Encountered
 
 • Organized project files.
 
-Future Improvements
+# Future Improvements
 
 • Add interactive quizzes.
 
@@ -232,7 +242,7 @@ Future Improvements
 
 • Create video lessons on cybercrime prevention.
 
-🏆 Learning Results
+# Learning Results
 
 • Increased Digital Awareness
 
@@ -244,15 +254,12 @@ Future Improvements
 
 • Competency in Structured Documentation
 
-⸻
 
-🏁 Project Summary
+# Project Summary
 
 This Project taught me the importance of Digital Literacy in my life. I gained hands-on experience in creating an identity, effective communication and cyber safety skills.
 
-⸻
-
-🔗 References
+# References
 
 • Canva, Prezi Google Form
 
