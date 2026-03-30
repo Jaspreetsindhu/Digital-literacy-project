@@ -64,3 +64,31 @@ This project consists of 5 key modules to develop digital literacy.
 
 Each module includes hands-on learning along with a reflective piece.
 
+# Project structure
+
+digital-literacy-project/
+│
+├── README.md
+├── report/
+│   └── Project_Report.pdf
+│
+├── task-1-presentation/
+│   └── infographic.png
+│
+├── task-2-portfolio/
+│   └── profile-screenshots/
+│
+├── task-3-platforms/
+│   ├── coding-challenge.png
+│   ├── google-form.png
+│   └── responses.png
+│
+├── task-4-email-etiquette/
+│   ├── email1.txt
+│   ├── email2.txt
+│   └── social-media-checklist.md
+│
+├── task-5-cybercrime/
+│   ├── casestudy.md
+│   └── prevention-checklist.md
+
