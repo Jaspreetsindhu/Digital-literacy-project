@@ -1,6 +1,6 @@
-Digital Literacy Project – CSE0001
+## Digital Literacy Project – CSE0001
 
-Author
+# Author
 
 Name: Jaspreet Sindhu
 
@@ -12,13 +12,13 @@ Program: B.Tech (First Year)
 
 Credits: 1 (Pass/Fail – Non-CGPA)
 
-Project Overview
+# Project Overview
 
-This project is part of the Digital Literacy course. I am helping students understand how to navigate their Digital Environment in a Secure, Professional and Effective way.
+This project is part of the Digital Literacy course. It is helping students understand how to navigate their Digital Environment in a Secure, Professional and Effective way.
 
 The project has five tasks. These tasks cover Digital Awareness, Online Presence, Collaboration Tools, Email Etiquette & Cyber Safety.
 
-Problem Statement
+# Problem Statement
 
 Many students do not know about:
 
@@ -32,7 +32,7 @@ Many students do not know about:
 
 This project addresses that gap with a Digital Literacy Portfolio.
 
-Proposed Solution
+# Proposed Solution
 
 The portfolio includes:
 
@@ -48,7 +48,7 @@ The portfolio includes:
 
 All work is documented in this repository.
 
-Features
+# Features
 
 • Digital Literacy Infographic
 
@@ -62,7 +62,7 @@ Features
 
 • Detailed Project Report
 
-Tools Used
+# Tools Used
 
 • Canva / Prezi / Google Slides
 
