@@ -1,6 +1,6 @@
 ## Digital Literacy Project Report – CSE0001
 
-# Title Page
+# Author
 
 Name: Jaspreet Sindhu
 
