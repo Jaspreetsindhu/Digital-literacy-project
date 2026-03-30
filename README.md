@@ -204,7 +204,7 @@ Task 5 – Creating Cyber Crime Awareness
 
 # How to View and/or Utilize the Project
 
-• Visit the project repository at .
+• Visit the project repository at https://github.com/Jaspreetsindhu/Digital-literacy-project
 
 • Look through task folders to find task files.
 
