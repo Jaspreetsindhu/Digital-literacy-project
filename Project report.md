@@ -58,6 +58,11 @@ I also made a list of dos and don'ts for media to promote good online behavior. 
 
 To avoid this we should use a subject line be respectful and state our request clearly. This task taught me why it's important to be professional online.
 
+Let's think about a hypothetical scenario:
+A student needed an extension for an assignment. They sent an email to the professor. The subject line of the email was not clear. It just said "Important". The student started the email with "Hey". They said "I can't submit please extend." The email was not well written. The student did not explain why they needed an extension. The email did not end with a note.
+
+The professor probably ignored the email. Did not think the request was serious. The student should have written an email. The subject line should have been clear. The student should have started with a greeting. They should have explained the problem clearly. The student should have asked for the extension in a way. They should have ended the email with a sign-off. If the student had written an email the professor might have said yes. This shows how important it is to write emails. The student should use language and be clear when they write emails. This will help them get a response. The student should remember that professional digital communication is very important. The student should always write emails, like this when they need something from the professor.
+
 # Task 5: Cybercrime Awareness
 
 For this task I learned about cybercrime. I made a case study about how cybercrimes happen and how to prevent them. I also made a checklist to stay online.
