@@ -150,3 +150,24 @@ Future Improvements
 • Maintain improved quality of visual design of the infographics.
 • Expand digital portfolio to include projects completed for an actual client. 
 • Develop several video-based lessons on how to protect yourself from cybercrime.
+
+
+🏆 Learning Results
+• Increase in Digital Awareness
+• Knowledge and understanding about Professional Behavior when Engaged online
+• Experience Using Different Platforms to produce results
+• Understanding of Cyber Safety Policy and Best Practices
+• Have Competency in Preparing Structured and Organized Documentation of Work Performed
+
+⸻
+
+🏁 Project Summary
+Through this Project, I learned how important Digital Literacy is to my Personal and Professional Life. I Obtained Hands-On Experience in Creating a Digital Identity, Using Communication Effectively, and Developing Skills to Protect Myself and Others while using Technology.
+
+⸻
+
+🔗 References
+• Canva, Prezi, Google Form
+• HackerRank, CodeChef
+• Cyber Crime Portal: https://cybercrime.gov.in
+• Course Material Provided by VIT
