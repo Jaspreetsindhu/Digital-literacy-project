@@ -40,9 +40,3 @@ For the GitHub profile, I made a README that included my name, branch, year, and
 There are many distinct purposes of both GitHub and LinkedIn, but for the student, GitHub is primarily a place to demonstrate coding projects and skills, while LinkedIn is primarily an avenue for networking and professional visibility.
 
 Over the next four years, I intend on uploading my projects to GitHub so that I can increase my coding portfolio. Furthermore, I will use LinkedIn to develop connections with professionals, seek information about internships, and remain current on industry news. Finally, completing this task helped me realize the value of establishing a professional digital persona early on.
-
-⸻
-
-💻 Task Three: Exploring Platforms (150–200 words)
-
-Task 3 involved exploring coding platforms and collaboration tools. I signed up on HackerRank and successfully complete a coding challenge that designed for a beginner. This experience has provided me with greater insight of how a coding plat form operates
