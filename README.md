@@ -53,5 +53,14 @@ Technologies/Tools used
 •	Google Forms
 •	Microsoft Word/PDF Tools
 
+🔧 How It Works
 
+This project consists of 5 key modules to develop digital literacy.
+1) Creating Awareness via Visual Media
+2) Creating a Professional Digital Identity
+3) Exploring Online Collaboration & Learning Platforms
+4) Practicing Formal Communication
+5) Understanding Cyber Threats and Prevention
+
+Each module includes hands-on learning along with a reflective piece.
 
