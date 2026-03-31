@@ -1,6 +1,6 @@
-Task -3:
+# Description: 
 
-Description: In this task I looked into coding practice platforms and collaboration tools to see how they help with academics and skill development.
+In this task I looked into coding practice platforms and collaboration tools to see how they help with academics and skill development.
 
 I started by making an account on HackerRank and doing a beginner problem.
 
