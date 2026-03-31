@@ -1,5 +1,7 @@
-Description:
+# Description:
+
 Cybercrime Awareness
+
 I looked into cybercrime. Focused on phishing because it is a big problem online. I made a case study that explains how phishing attacks happen and how people get hurt by them. I also made a list of things people can do to stay online like being careful with UPI and money transactions.
 What really surprised me was how easy it is for people to get tricked into sharing information when they get messages or visit websites that look real. This shows how important it is to be careful when using the internet and to know what is going on.
 Now that I have done this task I will be more careful when I click on links or get messages from people I do not know. I will also try to keep my information safe online by checking where things come from and being more careful, with cybercrime and my online safety and cybercrime awareness.
