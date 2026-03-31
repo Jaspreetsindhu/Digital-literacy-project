@@ -1,7 +1,7 @@
-Checklist:
-Social Media Do’s and Don’ts Checklist
+## Checklist:
+# Social Media Do’s and Don’ts Checklist
 
-Things You Should Do On Social Media:
+# Things You Should Do On Social Media:
 
 •	Always use a professional and respectful tone when you write posts and comments on Social Media.
 •	You should protect your privacy by changing the security settings on your Social Media accounts.
@@ -11,7 +11,7 @@ Things You Should Do On Social Media:
 •	Respect what other people think and have conversations with them on Social Media.
 •	Keep your Social Media profiles clean and suitable for people to look at, like teachers or bosses.
 
-Things You Should Not Do On Social Media:
+# Things You Should Not Do On Social Media:
 
 •	Do not post your phone number, address or passwords on Social Media.
 •	Avoid posting bad things on Social Media.
