@@ -1,4 +1,5 @@
-Description:
+# Description:
+
 I made my profiles on three important websites: GitHub, LinkedIn and Kaggle. These websites are really helpful for building a presence on the internet and lots of people use them including students, people who hire employees and professionals.
 I set up my profile on GitHub. Made some repositories to show off my projects like this digital literacy project. GitHub is great for showing people that I can code and work on projects. On LinkedIn I made a profile with my education details, including the degree I am getting at VIT Bhopal University. This helps me meet people and make professional connections. On Kaggle I made a profile to learn about data science and machine learning which will help me get better at analyzing things and learning technical skills.
 Each of these websites is good for something GitHub is for showing my projects LinkedIn is for meeting professionals and Kaggle is for learning and getting better at new skills. Over the four years I plan to keep updating my profiles on GitHub, LinkedIn and Kaggle by adding new projects, certifications and things I achieve. This task taught me that having a presence on the internet is really important and it will help me get ready, for my future career.
