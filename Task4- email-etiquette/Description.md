@@ -1,3 +1,5 @@
-Description: I wrote two emails for this task. The first email was to a professor. I asked for time to finish an assignment. The second email was to an internship coordinator. I told them I was interested in a summer internship.
+# Description: 
+
+I wrote two emails for this task. The first email was to a professor. I asked for time to finish an assignment. The second email was to an internship coordinator. I told them I was interested in a summer internship.
 Both emails had a subject line and a formal greeting. The content was easy to understand. The sign-off was professional. I learned that it is very important to be respectful and to the point when you write an email. You have to make sure the person you are writing to understands what you want.
 I also learned that how you format your email and the words you use can make an impression. Writing these emails helped me to communicate better in a way. This is a skill to have when you are talking to people at school or at work. I saw that writing an email can help you seem credible and professional. The emails I wrote were a help to me. I learned a lot, about emails.
